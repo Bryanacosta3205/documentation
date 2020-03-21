@@ -1,10 +1,8 @@
 ---
 id: doc0
-title: Latin-ish
+title: Una breve introducción a Markdown
 sidebar_label: Markdown
 ---
-
-# **Una breve introducción a Markdown.**
 
 ![][author] [![][twitter]](https://twitter.com/intent/follow?screen_name=BryanEduardoGA "@BryanEduardoGA")
 
