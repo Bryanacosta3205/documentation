@@ -24,7 +24,7 @@ const siteConfig = {
   title: "Documentacion", // Title for your website.
   tagline: "Pruebas",
   url: "Bryanacosta3205.github.io", // Your website URL
-  baseUrl: "/documentation", // Base URL for your project */
+  baseUrl: "/documentation/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
