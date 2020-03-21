@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "Test Site", // Title for your website.
-  tagline: "A website for testing",
+  title: "Documentacion", // Title for your website.
+  tagline: "Pruebas",
   url: "Bryanacosta3205.github.io", // Your website URL
   baseUrl: "/documentation", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
