@@ -46,10 +46,6 @@ sidebar_label: Markdown
 `===` Equivale a `# Heading level 1`  
 `---` Equivale a `# Heading level 2`
 
-# Heading level 1
-
-## Heading level 2
-
 ---
 
 ## Parrafos
