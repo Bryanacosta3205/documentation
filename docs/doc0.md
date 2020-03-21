@@ -4,30 +4,10 @@ title: Una breve introducción a Markdown
 sidebar_label: Markdown
 ---
 
-![][author] [![][twitter]](https://twitter.com/intent/follow?screen_name=BryanEduardoGA "@BryanEduardoGA")
+![][author] ![][twitter]
 
 [author]: https://img.shields.io/badge/Author-Bryan%20Acosta-red
 [twitter]: https://img.shields.io/twitter/follow/BryanEduardoGA
-
-# Contenido
-
-- [Encabezados](#encabezados-1)
-  - [Sintáxis alternativa](#sintaxis-alternativa-de-encabezados)
-- [Parrafos](#parrafos-1)
-- [Saltos de línea](#saltos-de-línea-1)
-- [Énfasis](#énfasis-1)
-- [Citas en bloque](#citas-en-bloque-1)
-- [Listas](#listas-1)
-- [Código](#código-1)
-- [Reglas horizontales](#reglas-horizontales-1)
-- [Enlaces](#enlaces-1)
-- [Imágenes](#imágenes-1)
-- [Escapando caracteres](#escapando-caracteres-1)
-- [Tablas](#tablas-1)
-- [Extra](#extra-1)
-  - [Buenas práticas](#buenas-prácticas)
-
----
 
 ## Encabezados
 
